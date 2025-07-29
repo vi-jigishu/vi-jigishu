@@ -1,26 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanshu Bhusan
 
-# Hi 👋, I'm [Your Name]
+**Developing deep learning codebases for computer vision.**
 
-**Developing [your specialty] for [your field].**
-
-Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=vi-jigishu&color=blue&style=flat)
 
 ---
 
 ## 🚀 Currently Working On
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technologies You're Learning]**
-- 👯 I'm looking to collaborate on **[Project Types]**
-- 🤔 I'm looking for help with **[Areas Where You Need Help]**
-- 💬 Ask me about **[Your Expertise Areas]**
+- 🔭 I'm currently working on **LLM**
+- 🌱 I'm currently learning **Deep learning**
+- 👯 I'm looking to collaborate on **Data science projects (especially LLM)**
+- 🤔 I'm looking for help with **Machine learning, Deep learning**
+- 💬 Ask me about **Data science**
 
 ---
 
 ## 📫 How to Reach Me
 - 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
 - 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Priyanshu Bhusan](https://www.linkedin.com/in/priyanshu-bhusan-457188254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
@@ -46,22 +44,22 @@ Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=yourusername
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vi-jigishu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vi-jigishu&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vi-jigishu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vi-jigishu&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -75,33 +73,13 @@ Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=yourusername
 ## 🤝 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://discord.gg/yourserver"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://www.linkedin.com/in/priyanshu-bhusan-457188254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/vijigishu.v/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://x.com/bhusan_vi?t=d4l0woPMXAqnchu4qDVj0A&s=09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://github.com/vi-jigishu"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://discord.com/users/vijigishu"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
-
-
-
-
-
-
-<!--
-**vi-jigishu/vi-jigishu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
