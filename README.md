@@ -1,6 +1,6 @@
 # Hi 👋, I'm Priyanshu Bhusan
 
-**Developing deep learning codebases for computer vision.**
+**Developing deep learning codebases for computer vision and LLM.**
 
 Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=vi-jigishu&color=blue&style=flat)
 
@@ -11,15 +11,14 @@ Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=vi-jigishu&c
 - 🌱 I'm currently learning **Deep learning**
 - 👯 I'm looking to collaborate on **Data science projects (especially LLM)**
 - 🤔 I'm looking for help with **Machine learning, Deep learning**
-- 💬 Ask me about **Data science**
+- 💬 Ask me about **Data science and Time Series Forcasting**
 
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-- 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
+- 📧 Email: [priyanshubhusan07@gmail.com](mailto:priyanshubhusan@gmail.com)
 - 💼 LinkedIn: [Priyanshu Bhusan](https://www.linkedin.com/in/priyanshu-bhusan-457188254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
+- 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
 ---
 
 ## 🛠️ Languages and Tools
