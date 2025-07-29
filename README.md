@@ -1,6 +1,6 @@
 # Hi 👋, I'm Priyanshu Bhusan
 
-**Developing deep learning codebases for computer vision and LLM.**
+**Developing deep learning codebases for computer vision and LLMs.**
 
 Profile views: ![Profile Views](https://komarev.com/ghpvc/?username=vi-jigishu&color=blue&style=flat)
 
